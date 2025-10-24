@@ -1,5 +1,5 @@
 # Iromium - Android/Google TV App That Controls BLE Light Strip
-
+![header image](./header.webp)
 ## Why This Project Exists
 Iromium was created to turn a cheap Chinese LED controller into a fully integrated TV accessory.  
 The main goal was simple: make the LED strip behave like part of the TV — turn on/off with the TV and allow basic control directly from the TV screen.  
